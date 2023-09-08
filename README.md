@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oliveira.joyce123@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joyce-santos-94a586236/](https://www.linkedin.com/in/joyce-santos-94a586236/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/joyce-santos-94a586236/](www.linkedin.com/in/joy-santos123)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
