@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou a Joyce</h1>
+<h1 align="center">Oi 👋, Eu sou a Joy! </h1>
 <h3 align="center">Uma pessoa apaixonada por ciência e análise de dados!</h3>
 
 - 🔭 Atualmente trabalhando com análise e visualização de dados **Visualização de dados de Pesquisas eleitorais**
